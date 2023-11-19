@@ -1,0 +1,14 @@
+{
+    "coc.source.omni.filetypes": ["*"],
+    "explorer.keyMappings.global": {
+        "e": false,
+        "<cr>": "open"
+    },
+    "coc.preferences.formatOnType": true,
+    "coc.preferences.bracketEnterImprove": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "coc.preferences.formatOnSave": true,
+    "java.format.enabled": true
+}
